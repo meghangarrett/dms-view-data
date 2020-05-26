@@ -1,4 +1,4 @@
-"","site","protein_site","mutation","condition","mutation_scaleddiffsel","label_site","wildtype","site_WTfoldenrich","protein_chain"
+"","site","protein_site","mutation","condition","mut_scaleddiffsel","label_site","wildtype","site_WTfoldenrich","protein_chain"
 "1",1,295,"G","Xqa255_105_mature",-0.628610240097108,295,"C",1.06277220145142,"D"
 "2",1,295,"E","Xqa255_105_mature",-0.247234318800617,295,"C",1.06277220145142,"D"
 "3",1,295,"D","Xqa255_105_mature",0.52208792585342,295,"C",1.06277220145142,"D"
